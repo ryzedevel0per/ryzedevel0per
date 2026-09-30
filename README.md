@@ -26,7 +26,7 @@
 const ryze = {
   nome:      "Ryze",
   username:  "ryzedevel0per",
-  área:      "Frontend Developer",
+  área:      "Frontend & Backend Developer",
   foco:      ["UI/UX", "Web Design", "Interfaces Criativas"],
   atualmente: "Construindo experiências visuais incríveis 🎨",
   curiosidade: "Acredito que todo pixel importa ✨"
